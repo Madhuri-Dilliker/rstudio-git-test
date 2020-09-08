@@ -1,0 +1,13 @@
+---
+title: "Step to create new project"
+output: html_notebook
+---
+
+### Adding new project to git
+
+Step 1:File --> Create new project
+
+```{r}
+### Need to add new project 
+```
+
