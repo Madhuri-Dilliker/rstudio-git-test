@@ -5,17 +5,15 @@ output: html_notebook
 
 ### Adding new project to git
 
+Step 1 :Go to your github account create new repository.
+Step 2 :In R studio click on File ---> New project
+Step 3 :Click on version control ---> Git
+Step 4 :Then click on new project
+Step 5 :After new project is created go to README file in the project
+Step 6 :Make changes to the file, save it
+Step 7 :On Right hand corner click on git tab, select the README file and then click on commit
+Step 8 :Write a commit message in commit window and then click on commit.
+Step 9 :Click on push button in this window to push the recent changes to the Github
 
 
-```{r}
-#Step 1 :Go to your github account create new repository.
-#Step 2 :In R studio click on File ---> New project
-#Step 3 :Click on version control ---> Git
-#Step 4 :Then click on new project
-#Step 5 :After new project is created go to README file in the project
-#Step 6 :Make changes to the file, save it
-#Step 7 :On Right hand corner click on git tab, select the README file and then click on commit
-#Step 8 :Write a commit message in commit window and then click on commit.
-#Step 9 :Click on push button in this window to push the recent changes to the Github
-```
 
